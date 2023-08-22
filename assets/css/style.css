@@ -1,0 +1,112 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Raleway', sans-serif;
+}
+
+body {
+    background-color: black;
+}
+
+.container {
+    width: 100%;
+}
+
+h1 {
+    text-align: center;
+    background-color: black;
+    color: white;
+    padding: 15px;
+    ;
+}
+
+.photoIguana {
+    width: 100%;
+}
+
+.imagenPrincipal {
+    width: 100%;
+}
+
+.parrafo {
+    display: flex;
+    align-items: center;
+    background-color: black;
+    color: white;
+    padding: 30px;
+    justify-content: space-evenly;
+
+}
+
+.texto {
+    text-align: left;
+
+    width: 35%;
+}
+
+.iguana-1 {
+    width: 35%;
+}
+
+.iguana1 {
+    width: 360px;
+    height: 250px;
+}
+
+.caracteristicas {
+    text-align: center;
+    background-color: #1E1A13;
+    color: white;
+    padding: 5%;
+}
+
+h2 {
+    font-size: 30px;
+    padding: 20px;
+}
+
+.icons {
+    display: flex;
+    justify-content: space-evenly;
+    padding: 20px;
+}
+
+.icon {
+    font-size: 2em;
+}
+
+.icon i {
+    margin-bottom: 0.5em;
+}
+
+.nombres {
+    font-size: 20px;
+}
+
+.gallery {
+    display: flex;
+    flex-wrap: wrap;
+    background-color: black;
+    justify-content: space-evenly;
+    padding: 5%;
+}
+
+.iguana2,
+.iguana3,
+.iguana4 {
+    width: 25%;
+}
+
+footer {
+    display: flex;
+    background-color: #1E1A13;
+    color: white;
+    align-items: center;
+    justify-content: center;
+    font-size: medium;
+    height: 4em;
+}
+
+.link {
+    color: white;
+}
